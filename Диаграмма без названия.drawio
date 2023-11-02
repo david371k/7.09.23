@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T07:57:44.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="t_FlpPRtNSsYfDcfcKr0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T08:10:09.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vJfz9Bg8pYCIeOM1h5Jd" version="22.0.8" type="github">
   <diagram name="Страница — 1" id="nVmeT9ZeMA4HYbx-LxFH">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
             <mxRectangle width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2wuKWZ-kblYidJaMUyoK-31" value="library_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="2wuKWZ-kblYidJaMUyoK-29" vertex="1">
+        <mxCell id="2wuKWZ-kblYidJaMUyoK-31" value="shoppinglist_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="2wuKWZ-kblYidJaMUyoK-29" vertex="1">
           <mxGeometry x="70" width="110" height="30" as="geometry">
             <mxRectangle width="110" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -435,7 +435,7 @@
             <mxPoint x="780" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2wuKWZ-kblYidJaMUyoK-36" value="library" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="2wuKWZ-kblYidJaMUyoK-36" value="shoppinglist" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="630" y="350" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="2wuKWZ-kblYidJaMUyoK-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="2wuKWZ-kblYidJaMUyoK-36" vertex="1">
